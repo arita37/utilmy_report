@@ -1,2 +1,6 @@
 # utilmy_report
-bug only
+
+
+Only to log bugs in Issues.
+
+
